@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="sharedDeviceLastReceiptId" value="2" />
+    <int name="sharedCompanyId" value="2" />
+    <int name="sharedDriverId" value="3" />
+    <string name="sharedMPADMessage"></string>
+    <string name="sharedInitialUserFullName">Erjohn01</string>
+    <boolean name="sharedHasDispatch" value="true" />
+    <int name="sharedBusId" value="305" />
+    <int name="sharedDeviceLastDispatchTripId" value="1" />
+    <int name="sharedDeviceLastIngressoId" value="0" />
+    <string name="sharedLastDeviceAccess">2025-03-23T05:41:23.633Z</string>
+    <string name="sharedApiToken">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJFcmpvaG4wMSIsIklkIjoiMiIsIkZ1bGxOYW1lIjoiRXJqb2huMDEiLCJFbWFpbCI6ImVyam9objAxQGdtYWlsLmNvbSIsIkNvbXBhbnlJZCI6IjIiLCJSb2xlSWQiOiIyIiwiQWRkcmVzcyI6IlNpbGFuZyBDYXZpdGUiLCJQaG9uZU51bWJlciI6IjA5MTgyNDU2NTg0IiwianRpIjoiOGQwODQ1MmMtMWNiMS00NzBlLTliMWYtMDY3MDU4YTE3OWE0IiwiYXVkIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NTE3MyIsImlzcyI6Imh0dHBzOi8vbG9jYWxob3N0OjcyNjciLCJleHAiOjE3NDgyMzgwODV9.n_JNIp9PiR0RfdqH02ki2U3UFq4EMBv59wH1lKwNA9o</string>
+    <int name="sharedConductorId" value="150" />
+    <string name="sharedCompanyTIN">000000000</string>
+    <string name="sharedCompanyName">Erjohn &amp; Almark Transit Corp.</string>
+    <int name="sharedAdministratorId" value="2" />
+    <int name="sharedDeviceLastDispatchId" value="1" />
+    <string name="sharedUsername">erjohn01</string>
+    <int name="sharedInitialUserId" value="2" />
+    <string name="sharedDriverName">Abiog, Jojo M</string>
+    <string name="sharedValidatedDeviceName">DonA-008</string>
+    <int name="sharedInitialUserRoleId" value="2" />
+    <string name="sharedConductorName">Gumiit, Bhenjie M.</string>
+    <int name="sharedDispatcherId" value="2" />
+    <int name="sharedTerminalId" value="1" />
+    <string name="sharedPassword">57771</string>
+</map>

@@ -1,0 +1,16 @@
+v1.0.0
+  -Initial release
+
+v1.0.1
+  -Fix problem where button navigation for route segment misbehaves
+
+v1.0.2
+  -Adding try and catch for every code block
+  -Implements global logging and save the log in SD Card
+  -Update the backup database functionality to save backup with timestamp
+
+v1.0.3
+  -Prevent user from issuing a ticket once they encountered an error
+
+v1.0.4
+  -Allow POST request to handle large volume of POST body by utilizing Multipart approach

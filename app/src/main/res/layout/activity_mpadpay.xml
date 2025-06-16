@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.MPADPayActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="30dp"
+                android:fontFamily="@font/convergence"
+                android:text="MPADPAY Dashboard"
+                android:textAlignment="center"
+                android:textColor="#4CAF50"
+                android:textSize="35sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/btnRegisterUser"
+                    android:layout_width="match_parent"
+                    android:layout_height="63dp"
+                    android:layout_marginBottom="10dp"
+                    android:backgroundTint="#4CAF50"
+                    android:fontFamily="@font/convergence"
+                    android:text="Account Registration"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/btnAddCredit"
+                    android:layout_width="match_parent"
+                    android:layout_height="63dp"
+                    android:backgroundTint="#4CAF50"
+                    android:fontFamily="@font/convergence"
+                    android:text="Buy Credit"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
